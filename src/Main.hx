@@ -2,7 +2,7 @@ package scr;
 
 class Main {
     static function main(){
-        trace("This Is A Roberry");
+        trace("This is a robbery");
         trace("Mission complete");
     }
 }
